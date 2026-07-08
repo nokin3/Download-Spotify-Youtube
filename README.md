@@ -2,7 +2,10 @@
 
 สิ่งที่ต้องมี 
 
-1. python สามารถลงได้ด้วยกับ 2 วิธีง่าย ๆ
-   1.1 ninite.com เข้าเว็บนี้ 
-
+1. python สามารถลงได้ด้วยกับ 2 วิธีง่าย ๆ เลือกวิธีใดวิธีนึง
+   
+   1.1 ninite.com เข้าเว็บนี้ ติ๊ก python3 กดปุ่มน้ำเงิน โหลดไฟล์มาแล้ว ติดตั้ง
 <img width="300" height="266" alt="image" src="https://github.com/user-attachments/assets/ac755167-eb52-480b-b4bf-7709e5add9f5" />
+
+   1.2 กดปุ่ม start ที่เครื่องตัวเอง หา microsoft store ค้นหา python แล้วกด get > install แนะนำเวอร์ชั่นล่าสุด
+<img width="1230" height="807" alt="image" src="https://github.com/user-attachments/assets/03ac0026-d9e4-4a4f-b7c7-aee68b5c8205" />
